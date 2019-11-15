@@ -13,18 +13,18 @@ location: 点我点我点我 # ex. Nice, France
 location_url: https://chanxinguidao.github.io/website.html # ex. Nice, France
 company: 每一份教程，我都会亲手敲一遍，如果你学习过程遇到问题，欢迎留言(点我查看技能树)。
 company_url: https://www.processon.com/view/5c89f14ae4b0f88919ad93e1#map
-github_url: https://github.com/chanxinguidao # ex. https://github.com/Jekyll
+github_url: https://github.com/github_sdf1997
 github_username: chanxinguidao # ex. Jekyll
 subTitle: 我们熟悉的甲骨文在北京裁员了!而你还不认真学习！
 subTitle_url: https://mp.weixin.qq.com/s/J5IMG0P4PKpUTofCTuZlgA
 description: 而立之年，方知代码才是真爱
 favicon: favicon.png # Image must be in assets/images
-repository: github.com/chanxinguidao/chanxinguidao.github.com # ex. Jekyll/Jekyll.github.io
+repository: github_username/github_sdf1997.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://Jekyll.github.io
-url: https://chanxinguidao.github.io
+url: https://github_sdf1997.github.io
 
 ## Gem
 gems:
